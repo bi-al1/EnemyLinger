@@ -1,0 +1,24 @@
+EnemyLinger
+Copyright 2026 bi-al1
+
+This mod is based on the enemy "?" (linger) feature of
+"Mid and Bridge Buff Timer" by Hantu-Raya:
+https://github.com/Hantu-Raya/Deadlock-mods-collection
+https://gamebanana.com/mods/606414
+Licensed under the Apache License, Version 2.0. The original NOTICE reads:
+
+  Deadlock Mods Collection
+  Copyright 2026 Hantu-Raya
+
+  This product includes original software and mod source developed by Hantu-Raya:
+  https://github.com/Hantu-Raya/Deadlock-mods-collection
+
+Changes: the linger feature was rewritten as a standalone script
+(panorama/scripts/enemy_linger.js); timers, glow, settings menu and other
+features were removed.
+
+panorama/layout/hud_minimap.xml is derived from Valve's stock Deadlock HUD
+layout. Deadlock, Source 2, Valve, Panorama, and related names, paths,
+formats, trademarks, and game assets belong to their respective owners.
+This project is an unofficial fan modification and is not affiliated with,
+endorsed by, sponsored by, or approved by Valve.

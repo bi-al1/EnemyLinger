@@ -1,0 +1,8 @@
+<!-- EnemyLinger: 「?」を置く全面レイヤー。ミニマップの外側（HudMinimapContainer）に作るので、見た目はここで読み込む -->
+<root>
+	<styles>
+		<include src="s2r://panorama/styles/citadel_base_styles.vcss_c" />
+		<include src="s2r://panorama/styles/enemy_linger.vcss_c" />
+	</styles>
+	<Panel hittest="false" hittestchildren="false" />
+</root>

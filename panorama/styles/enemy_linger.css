@@ -1,0 +1,40 @@
+/* EnemyLinger: ミニマップ上の「?」 */
+
+#EnemyLingerLayer {
+	width: 100%;
+	height: 100%;
+}
+
+.enemy-linger-q {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	font-size: 18px;
+	font-family: sansMono;
+	font-weight: bold;
+	text-align: center;
+	/* vertical-align は付けない。Panorama では「パネル自体を親の上下中央に置く」意味になり、位置がずれる */
+	overflow: noclip;
+	color: white;
+	text-shadow: 0px 0px 3px 1.0 rgba(255, 80, 80, 0.8);
+	opacity: 0;
+	z-index: 9999999;
+	transition-property: opacity;
+	transition-duration: 0.15s;
+}
+
+/* 確認用（enemy_linger.js の DEBUG が true のときだけ使う） */
+.enemy-linger-debug {
+	width: 100%;
+	vertical-align: bottom;
+	font-size: 11px;
+	font-family: sansMono;
+	color: #ffff66;
+	background-color: rgba(0, 0, 0, 0.75);
+	padding: 2px;
+	z-index: 9999998;
+}
+
+.enemy-linger-q.active {
+	opacity: 1;
+}
