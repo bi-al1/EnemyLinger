@@ -130,3 +130,5 @@ Discord: https://discord.com/users/1221510399825023177 (feel free to DM)
 - 元のコードを AI に読ませて参考にした場合は、元の作者の明記が必要。上の「クレジット」と NOTICE で対応
 - サムネイルは AI 開示の対象外だが、実際と違う見た目（誤解を招く画像）は禁止。実際のスクショを土台にする
 - ライセンス欄：Apache License 2.0
+- 画像：1 枚目 `release/thumbnail.png`（サムネイル）、2 枚目 `release/screenshot_minimap.png`（実際のゲーム画面）
+- 投稿するファイル：`build/pak73_dir.vpk`
