@@ -10,6 +10,10 @@ A lightweight Deadlock mod that **shows a `?` for 5 seconds on the minimap where
 
 ## Installation
 
+**GameBanana: https://gamebanana.com/mods/733553** (also available in Deadlock Mod Manager — search for "EnemyLinger")
+
+Manual install:
+
 1. Put `pak73_dir.vpk` into `Deadlock\game\citadel\addons\`
 2. Make sure `Deadlock\game\citadel\gameinfo.gi` contains `Game citadel/addons` (already set if you use Deadlock Mod Manager)
 

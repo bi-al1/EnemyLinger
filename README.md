@@ -10,6 +10,10 @@ Deadlock のミニマップで、**敵が見えなくなった位置に `?` を 
 
 ## インストール
 
+**GameBanana：https://gamebanana.com/mods/733553**（Deadlock Mod Manager でも「EnemyLinger」で検索できます）
+
+手動で入れる場合：
+
 1. `pak73_dir.vpk` を `Deadlock\game\citadel\addons\` に置く
 2. `Deadlock\game\citadel\gameinfo.gi` に `Game citadel/addons` が入っていることを確認する（Deadlock Mod Manager を使っていれば設定済み）
 
