@@ -51,7 +51,7 @@ Shows a "?" on the minimap where an enemy just went out of sight. Lightweight, s
 ■ 同時に使えない MOD
 ミニマップの定義ファイル（hud_minimap）を書き換える MOD とは同時に使えません。
 例：Mid and Bridge Buff Timer（この MOD の元になった MOD。同じ機能が入っています）
-動作確認：QOL Lock と同時に使って問題ないことを確認しています。
+QOL Lock とは同時に使えます。私自身、QOL Lock と併用して遊んでいます（スクリーンショットも QOL Lock 併用時のものです）。
 
 ■ クレジット
 「?」表示の仕組みは、Hanturaya さんの「Mid and Bridge Buff Timer」の機能を参考に、
@@ -97,7 +97,7 @@ The enemy's icon stays there semi-transparent, so you can tell at a glance who v
 ■ Incompatible mods
 Not compatible with mods that replace the minimap layout (hud_minimap).
 Example: Mid and Bridge Buff Timer (the mod this is based on; it already includes this feature).
-Tested and working together with QOL Lock.
+Works together with QOL Lock. I play with both installed myself (the screenshots were taken with QOL Lock enabled).
 
 ■ Credits
 The "?" feature is based on Hanturaya's "Mid and Bridge Buff Timer",
