@@ -1,7 +1,7 @@
 # GameBanana 投稿用テキスト（下書き）
 
 投稿フォームの各欄にそのまま貼れるようにまとめたもの。
-`https://github.com/bi-al1/EnemyLinger` などの `{{ }}` は、決まったら差し替える。不要な行は消す。
+リンク（GitHub・X・Discord）はすべて記入済み。
 
 ---
 
