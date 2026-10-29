@@ -10,7 +10,7 @@ A lightweight Deadlock mod that **shows a `?` for 5 seconds on the minimap where
 
 ## Installation
 
-**GameBanana: https://gamebanana.com/mods/733553** (also available in Deadlock Mod Manager — search for "EnemyLinger")
+**GameBanana:** [gamebanana.com/mods/733553](https://gamebanana.com/mods/733553) (also available in Deadlock Mod Manager — search for "EnemyLinger")
 
 Manual install:
 

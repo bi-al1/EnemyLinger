@@ -10,7 +10,7 @@ Deadlock のミニマップで、**敵が見えなくなった位置に `?` を 
 
 ## インストール
 
-**GameBanana：https://gamebanana.com/mods/733553**（Deadlock Mod Manager でも「EnemyLinger」で検索できます）
+**GameBanana：** [gamebanana.com/mods/733553](https://gamebanana.com/mods/733553)（Deadlock Mod Manager でも「EnemyLinger」で検索できます）
 
 手動で入れる場合：
 
