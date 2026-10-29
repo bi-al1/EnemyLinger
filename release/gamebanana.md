@@ -5,10 +5,10 @@
 
 ---
 
-## タイトル（Name）
+## タイトル（Name、50 文字まで）
 
 ```
-EnemyLinger - "?" where enemies vanished on the minimap
+EnemyLinger - "?" where enemies vanished
 ```
 
 ## 短い説明（Description、一覧に出る 1 行）
