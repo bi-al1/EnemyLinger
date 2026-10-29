@@ -1,7 +1,7 @@
 # GameBanana 投稿用テキスト（下書き）
 
 投稿フォームの各欄にそのまま貼れるようにまとめたもの。
-`{{GITHUB_URL}}` などの `{{ }}` は、決まったら差し替える。不要な行は消す。
+`https://github.com/bi-al1/EnemyLinger` などの `{{ }}` は、決まったら差し替える。不要な行は消す。
 
 ---
 
@@ -66,7 +66,7 @@ MOD 本体に AI で生成した画像・音声・モデルなどは含まれて
 サムネイル画像は、実際のゲーム画面のスクリーンショットをもとに ChatGPT で装飾しました。
 
 ■ ソースコード
-GitHub：{{GITHUB_URL}}
+GitHub：https://github.com/bi-al1/EnemyLinger
 
 ■ フィードバック
 バグ報告や「こうしてほしい」はコメント欄へ気軽にどうぞ！
@@ -112,7 +112,7 @@ No AI-generated images, audio, models or other assets are included in the mod it
 The thumbnail was decorated with ChatGPT, based on a real in-game screenshot.
 
 ■ Source code
-GitHub: {{GITHUB_URL}}
+GitHub: https://github.com/bi-al1/EnemyLinger
 
 ■ Feedback
 Bug reports and suggestions are welcome in the comments!
